@@ -12,27 +12,28 @@
 study/
 ├── README.md                 # 项目说明文档
 ├── general/                  # 通用提示词
-│   ├── writing/             # 写作相关
-│   ├── learning/            # 学习相关
-│   ├── brainstorm/          # 头脑风暴
+│   ├── writing.md           # 写作相关
+│   ├── learning.md          # 学习相关
+│   ├── brainstorm.md        # 头脑风暴
 │   └── ...
 ├── ai-tools/                # AI 工具相关
-│   ├── chatgpt/             # ChatGPT 提示词
-│   ├── copilot/             # GitHub Copilot 提示词
-│   ├── claude/              # Claude 提示词
+│   ├── chatgpt.md           # ChatGPT 提示词
+│   ├── copilot.md           # GitHub Copilot 提示词
+│   ├── claude.md            # Claude 提示词
 │   └── ...
 ├── programming/             # 编程学习
-│   ├── python/
-│   ├── javascript/
-│   ├── golang/
+│   ├── python.md
+│   ├── javascript.md
+│   ├── golang.md
 │   └── ...
 ├── language-learning/       # 语言学习
-│   ├── english/
-│   ├── chinese/
+│   ├── english.md
+│   ├── chinese.md
 │   └── ...
-└── tools/                   # 其他学习工具
-    ├── anki/
-    ├── notion/
+└── tools/                   # 学习工具提示词
+    ├── notebookllm.md       # NotebookLM 工具
+    ├── anki.md              # Anki 学习工具
+    ├── notion.md            # Notion 工具
     └── ...
 ```
 
